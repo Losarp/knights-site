@@ -1,0 +1,738 @@
+{
+    "rank": {
+        "Commander": {
+            "rank": "Commander",
+            "occurence": 12,
+            "percentage": "5.41%",
+            "score": 18.5
+        },
+        "Commoner": {
+            "rank": "Commoner",
+            "occurence": 180,
+            "percentage": "81.08%",
+            "score": 1.23333
+        },
+        "Noble": {
+            "rank": "Noble",
+            "occurence": 30,
+            "percentage": "13.51%",
+            "score": 7.4
+        }
+    },
+    "type": {
+        "1": {
+            "type": "1",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "10": {
+            "type": "10",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "11": {
+            "type": "11",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "12": {
+            "type": "12",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "13": {
+            "type": "13",
+            "occurence": 12,
+            "percentage": "5.41%",
+            "score": 18.5
+        },
+        "14": {
+            "type": "14",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "15": {
+            "type": "15",
+            "occurence": 12,
+            "percentage": "5.41%",
+            "score": 18.5
+        },
+        "16": {
+            "type": "16",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "17": {
+            "type": "17",
+            "occurence": 8,
+            "percentage": "3.6%",
+            "score": 27.75
+        },
+        "18": {
+            "type": "18",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "19": {
+            "type": "19",
+            "occurence": 2,
+            "percentage": "0.9%",
+            "score": 111
+        },
+        "2": {
+            "type": "2",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "20": {
+            "type": "20",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "21": {
+            "type": "21",
+            "occurence": 7,
+            "percentage": "3.15%",
+            "score": 31.71429
+        },
+        "22": {
+            "type": "22",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "23": {
+            "type": "23",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "24": {
+            "type": "24",
+            "occurence": 4,
+            "percentage": "1.8%",
+            "score": 55.5
+        },
+        "25": {
+            "type": "25",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "26": {
+            "type": "26",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "27": {
+            "type": "27",
+            "occurence": 3,
+            "percentage": "1.35%",
+            "score": 74
+        },
+        "28": {
+            "type": "28",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "29": {
+            "type": "29",
+            "occurence": 3,
+            "percentage": "1.35%",
+            "score": 74
+        },
+        "3": {
+            "type": "3",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "30": {
+            "type": "30",
+            "occurence": 5,
+            "percentage": "2.25%",
+            "score": 44.4
+        },
+        "4": {
+            "type": "4",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "5": {
+            "type": "5",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "6": {
+            "type": "6",
+            "occurence": 9,
+            "percentage": "4.05%",
+            "score": 24.66667
+        },
+        "7": {
+            "type": "7",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "8": {
+            "type": "8",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "9": {
+            "type": "9",
+            "occurence": 6,
+            "percentage": "2.7%",
+            "score": 37
+        },
+        "c1": {
+            "type": "c1",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "c10": {
+            "type": "c10",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "c11": {
+            "type": "c11",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "c12": {
+            "type": "c12",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "c2": {
+            "type": "c2",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "c3": {
+            "type": "c3",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "c4": {
+            "type": "c4",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "c5": {
+            "type": "c5",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "c6": {
+            "type": "c6",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "c7": {
+            "type": "c7",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "c8": {
+            "type": "c8",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "c9": {
+            "type": "c9",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n1": {
+            "type": "n1",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n10": {
+            "type": "n10",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n11": {
+            "type": "n11",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n12": {
+            "type": "n12",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n13": {
+            "type": "n13",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n14": {
+            "type": "n14",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n15": {
+            "type": "n15",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n16": {
+            "type": "n16",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n17": {
+            "type": "n17",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n18": {
+            "type": "n18",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n19": {
+            "type": "n19",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n2": {
+            "type": "n2",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n20": {
+            "type": "n20",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n21": {
+            "type": "n21",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n22": {
+            "type": "n22",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n23": {
+            "type": "n23",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n24": {
+            "type": "n24",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n25": {
+            "type": "n25",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n26": {
+            "type": "n26",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n27": {
+            "type": "n27",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n28": {
+            "type": "n28",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n29": {
+            "type": "n29",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n3": {
+            "type": "n3",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n30": {
+            "type": "n30",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n4": {
+            "type": "n4",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n5": {
+            "type": "n5",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n6": {
+            "type": "n6",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n7": {
+            "type": "n7",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n8": {
+            "type": "n8",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        },
+        "n9": {
+            "type": "n9",
+            "occurence": 1,
+            "percentage": "0.45%",
+            "score": 222
+        }
+    },
+    "badge_color": {
+        "Blue": {
+            "badge_color": "Blue",
+            "occurence": 63,
+            "percentage": "28.38%",
+            "score": 3.52381
+        },
+        "Green": {
+            "badge_color": "Green",
+            "occurence": 27,
+            "percentage": "12.16%",
+            "score": 8.22222
+        },
+        "Insignia": {
+            "badge_color": "Insign",
+            "occurence": 12,
+            "percentage": "5.41%",
+            "score": 18.5
+        },
+        "Purple": {
+            "badge_color": "Purple",
+            "occurence": 9,
+            "percentage": "4.05%",
+            "score": 24.66667
+        },
+        "Red": {
+            "badge_color": "Red",
+            "occurence": 45,
+            "percentage": "20.27%",
+            "score": 4.93333
+        },
+        "Signet": {
+            "badge_color": "Signet",
+            "occurence": 30,
+            "percentage": "13.51%",
+            "score": 7.4
+        },
+        "Yellow": {
+            "badge_color": "Yellow",
+            "occurence": 36,
+            "percentage": "16.22%",
+            "score": 6.16667
+        }
+    },
+    "background": {
+        "Castle": {
+            "background": "Castle",
+            "occurence": 20,
+            "percentage": "9.01%",
+            "score": 11.1
+        },
+        "City": {
+            "background": "City",
+            "occurence": 30,
+            "percentage": "13.51%",
+            "score": 7.4
+        },
+        "Color/Blue": {
+            "background": "Color/Blue",
+            "occurence": 30,
+            "percentage": "13.51%",
+            "score": 7.4
+        },
+        "Color/Grey": {
+            "background": "Color/Grey",
+            "occurence": 50,
+            "percentage": "22.52%",
+            "score": 4.44
+        },
+        "Color/Purple": {
+            "background": "Color/Purple",
+            "occurence": 5,
+            "percentage": "2.25%",
+            "score": 44.4
+        },
+        "Color/Red": {
+            "background": "Color/Red",
+            "occurence": 25,
+            "percentage": "11.26%",
+            "score": 8.88
+        },
+        "Color/Yellow": {
+            "background": "Color/Yellow",
+            "occurence": 10,
+            "percentage": "4.5%",
+            "score": 22.2
+        },
+        "commander background": {
+            "background": "commander background",
+            "occurence": 12,
+            "percentage": "5.41%",
+            "score": 18.5
+        },
+        "Forest": {
+            "background": "Forest",
+            "occurence": 10,
+            "percentage": "4.5%",
+            "score": 22.2
+        },
+        "noble background": {
+            "background": "noble background",
+            "occurence": 30,
+            "percentage": "13.51%",
+            "score": 7.4
+        }
+    },
+    "gadget_1": {
+        "Environment Conditioner": {
+            "gadget_1": "Environment Conditioner",
+            "occurence": 29,
+            "percentage": "13.06%",
+            "score": 7.65517
+        },
+        "Microphone": {
+            "gadget_1": "Microphone",
+            "occurence": 23,
+            "percentage": "10.36%",
+            "score": 9.65217
+        },
+        "Movement Detector": {
+            "gadget_1": "Movement Detector",
+            "occurence": 11,
+            "percentage": "4.95%",
+            "score": 20.18182
+        },
+        "Night Vision": {
+            "gadget_1": "Night Vision",
+            "occurence": 13,
+            "percentage": "5.86%",
+            "score": 17.07692
+        },
+        "None": {
+            "gadget_1": "None",
+            "occurence": 71,
+            "percentage": "31.98%",
+            "score": 3.12676
+        },
+        "One-eye Visor": {
+            "gadget_1": "One-eye Visor",
+            "occurence": 24,
+            "percentage": "10.81%",
+            "score": 9.25
+        },
+        "Thermal Camera": {
+            "gadget_1": "Thermal Camera",
+            "occurence": 21,
+            "percentage": "9.46%",
+            "score": 10.57143
+        },
+        "Vitals Monitor": {
+            "gadget_1": "Vitals Monitor",
+            "occurence": 16,
+            "percentage": "7.21%",
+            "score": 13.875
+        },
+        "Wind Microphone": {
+            "gadget_1": "Wind Microphone",
+            "occurence": 14,
+            "percentage": "6.31%",
+            "score": 15.85714
+        }
+    },
+    "gadget_2": {
+        "Environment Conditioner": {
+            "gadget_2": "Environment Conditioner",
+            "occurence": 8,
+            "percentage": "3.6%",
+            "score": 27.75
+        },
+        "Microphone": {
+            "gadget_2": "Microphone",
+            "occurence": 3,
+            "percentage": "1.35%",
+            "score": 74
+        },
+        "Movement Detector": {
+            "gadget_2": "Movement Detector",
+            "occurence": 5,
+            "percentage": "2.25%",
+            "score": 44.4
+        },
+        "Night Vision": {
+            "gadget_2": "Night Vision",
+            "occurence": 4,
+            "percentage": "1.8%",
+            "score": 55.5
+        },
+        "None": {
+            "gadget_2": "None",
+            "occurence": 182,
+            "percentage": "81.98%",
+            "score": 1.21978
+        },
+        "One-eye Visor": {
+            "gadget_2": "One-eye Visor",
+            "occurence": 4,
+            "percentage": "1.8%",
+            "score": 55.5
+        },
+        "Thermal Camera": {
+            "gadget_2": "Thermal Camera",
+            "occurence": 7,
+            "percentage": "3.15%",
+            "score": 31.71429
+        },
+        "Vitals Monitor": {
+            "gadget_2": "Vitals Monitor",
+            "occurence": 4,
+            "percentage": "1.8%",
+            "score": 55.5
+        },
+        "Wind Microphone": {
+            "gadget_2": "Wind Microphone",
+            "occurence": 5,
+            "percentage": "2.25%",
+            "score": 44.4
+        }
+    },
+    "gadget_3": {
+        "Environment Conditioner": {
+            "gadget_3": "Environment Conditioner",
+            "occurence": 2,
+            "percentage": "0.9%",
+            "score": 111
+        },
+        "Microphone": {
+            "gadget_3": "Microphone",
+            "occurence": 2,
+            "percentage": "0.9%",
+            "score": 111
+        },
+        "Night Vision": {
+            "gadget_3": "Night Vision",
+            "occurence": 3,
+            "percentage": "1.35%",
+            "score": 74
+        },
+        "None": {
+            "gadget_3": "None",
+            "occurence": 204,
+            "percentage": "91.89%",
+            "score": 1.08824
+        },
+        "One-eye Visor": {
+            "gadget_3": "One-eye Visor",
+            "occurence": 4,
+            "percentage": "1.8%",
+            "score": 55.5
+        },
+        "Thermal Camera": {
+            "gadget_3": "Thermal Camera",
+            "occurence": 2,
+            "percentage": "0.9%",
+            "score": 111
+        },
+        "Vitals Monitor": {
+            "gadget_3": "Vitals Monitor",
+            "occurence": 3,
+            "percentage": "1.35%",
+            "score": 74
+        },
+        "Wind Microphone": {
+            "gadget_3": "Wind Microphone",
+            "occurence": 2,
+            "percentage": "0.9%",
+            "score": 111
+        }
+    },
+    "coverage": {
+        "Full Body": {
+            "coverage": "Full Body",
+            "occurence": 9,
+            "percentage": "4.05%",
+            "score": 24.66667
+        },
+        "Shoulders up": {
+            "coverage": "Shoulders up",
+            "occurence": 213,
+            "percentage": "95.95%",
+            "score": 1.04225
+        }
+    }
+}

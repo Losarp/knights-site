@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="%PUBLIC_URL%/images/favicon/favicon.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="Sienna Knignts NFT - The Official SecretNFT PFP Collection of Sienna Network" />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/images/favicon/favicon.png" />
+  <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+  <title>Sienna Knights NFT</title>
+  <meta charset="utf-8">
+  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="HTML5 Template">
+  <meta name="description" content="The Official SecretNFT PFP Collection of Sienna Network">
+  <meta name="author" content="Sienna Network">
+  <meta property="og:title" content="Sienna Knights NFT" />
+  <meta property="og:description" content="The Official SecretNFT PFP Collection of Sienna Network" />
+  <meta property="og:image" content="https://secretchameleons.com/images/chivalry/knightsog.png" />
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <!-- FAVICONS -->
+  <link rel="shortcut icon" href="%PUBLIC_URL%/images/favicon/favicon.png">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- CSS -->
+  <!-- REVOSLIDER CSS SETTINGS -->
+  <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.min.css" media="screen">
+
+  <!--  BOOTSTRAP -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+
+  <!--  GOOGLE FONT -->
+  <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700%7COpen+Sans:400,300,700' rel='stylesheet'
+    type='text/css'>
+
+  <!-- ICONS ELEGANT FONT & FONT AWESOME & LINEA ICONS  -->
+  <link rel="stylesheet" href="css/icons-fonts.css">
+
+  <!--  CSS THEME -->
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- ANIMATE -->
+  <link rel='stylesheet' href="css/animate.min.css">
+</head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+  <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+
+  <!-- jQuery  -->
+  <script src="js/jquery-1.11.2.min.js"></script>
+
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="js/bootstrap.min.js"></script>
+
+  <!-- MAGNIFIC POPUP -->
+  <script src='js/jquery.magnific-popup.min.js'></script>
+
+  <!-- PORTFOLIO SCRIPTS -->
+  <script src="js/isotope.pkgd.min.js"></script>
+  <script src="js/imagesloaded.pkgd.min.js"></script>
+  <script src="js/masonry.pkgd.min.js"></script>
+
+  <!-- COUNTER -->
+  <script src="js/jquery.countTo.js"></script>
+
+  <!-- APPEAR -->
+  <script src="js/jquery.appear.js"></script>
+
+  <!--[if lt IE 10]><script src="js/jquery.placeholder.js"></script><![endif]-->
+
+  <!-- OWL CAROUSEL -->
+  <script src="js/owl.carousel.min.js"></script>
+
+  <!-- MAIN SCRIPT -->
+  <script src="js/main.js"></script>
+
+  <!-- REVOSLIDER SCRIPTS  -->
+  <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
+  <script src="rs-plugin/js/cmtools.js"></script>
+  <script src="rs-plugin/js/cmparallax.js"></script>
+
+  <!-- SLIDER REVOLUTION INIT  -->
+  <script>
+
+    jQuery(document).ready(function () {
+      if ((navigator.appVersion.indexOf("Win") != -1) && (ieDetect == false)) {
+        jQuery('#rs-fullwidth').revolution(
+          {
+            dottedOverlay: "none",
+            delay: 16000,
+            startwidth: 1170,
+            startheight: 665,
+            hideThumbs: 200,
+
+            thumbWidth: 100,
+            thumbHeight: 50,
+            thumbAmount: 5,
+
+            //fullScreenAlignForce: "off",
+
+            navigationType: "none",
+            navigationArrows: "solo",
+            navigationStyle: "preview4",
+
+            hideTimerBar: "on",
+
+            touchenabled: "on",
+            onHoverStop: "on",
+
+            swipe_velocity: 0.7,
+            swipe_min_touches: 1,
+            swipe_max_touches: 1,
+            drag_block_vertical: false,
+
+            parallax: "scroll",
+            parallaxBgFreeze: "on",
+            parallaxLevels: [45, 40, 35, 50],
+            parallaxDisableOnMobile: "on",
+
+            keyboardNavigation: "off",
+
+            navigationHAlign: "center",
+            navigationVAlign: "bottom",
+            navigationHOffset: 0,
+            navigationVOffset: 20,
+
+            soloArrowLeftHalign: "left",
+            soloArrowLeftValign: "center",
+            soloArrowLeftHOffset: 20,
+            soloArrowLeftVOffset: 0,
+
+            soloArrowRightHalign: "right",
+            soloArrowRightValign: "center",
+            soloArrowRightHOffset: 20,
+            soloArrowRightVOffset: 0,
+
+            shadow: 0,
+            fullWidth: "on",
+            fullScreen: "off",
+
+            spinner: "spinner4",
+
+            stopLoop: "off",
+            stopAfterLoops: -1,
+            stopAtSlide: -1,
+
+            shuffle: "off",
+
+            autoHeight: "off",
+            forceFullWidth: "off",
+
+            hideThumbsOnMobile: "off",
+            hideNavDelayOnMobile: 1500,
+            hideBulletsOnMobile: "off",
+            hideArrowsOnMobile: "off",
+            hideThumbsUnderResolution: 0,
+
+            hideSliderAtLimit: 0,
+            hideCaptionAtLimit: 0,
+            hideAllCaptionAtLilmit: 0,
+            startWithSlide: 0,
+            //fullScreenOffsetContainer: ""	
+          });
+      } else {
+        jQuery('#rs-fullwidth').revolution(
+          {
+            dottedOverlay: "none",
+            delay: 16000,
+            startwidth: 1170,
+            startheight: 760,
+            hideThumbs: 200,
+
+            thumbWidth: 100,
+            thumbHeight: 50,
+            thumbAmount: 5,
+
+            navigationType: "none",
+            navigationArrows: "solo",
+            navigationStyle: "preview4",
+
+            hideTimerBar: "on",
+
+            touchenabled: "on",
+            onHoverStop: "on",
+
+            swipe_velocity: 0.7,
+            swipe_min_touches: 1,
+            swipe_max_touches: 1,
+            drag_block_vertical: false,
+
+            parallax: "mouse",
+            parallaxBgFreeze: "on",
+            parallaxLevels: [0],
+            parallaxDisableOnMobile: "on",
+
+            keyboardNavigation: "off",
+
+            navigationHAlign: "center",
+            navigationVAlign: "bottom",
+            navigationHOffset: 0,
+            navigationVOffset: 20,
+
+            soloArrowLeftHalign: "left",
+            soloArrowLeftValign: "center",
+            soloArrowLeftHOffset: 20,
+            soloArrowLeftVOffset: 0,
+
+            soloArrowRightHalign: "right",
+            soloArrowRightValign: "center",
+            soloArrowRightHOffset: 20,
+            soloArrowRightVOffset: 0,
+
+            shadow: 0,
+            fullWidth: "on",
+            fullScreen: "off",
+
+            spinner: "spinner4",
+
+            stopLoop: "off",
+            stopAfterLoops: -1,
+            stopAtSlide: -1,
+
+            shuffle: "off",
+
+            autoHeight: "off",
+            forceFullWidth: "off",
+
+            hideThumbsOnMobile: "off",
+            hideNavDelayOnMobile: 1500,
+            hideBulletsOnMobile: "off",
+            hideArrowsOnMobile: "off",
+            hideThumbsUnderResolution: 0,
+
+            hideSliderAtLimit: 0,
+            hideCaptionAtLimit: 0,
+            hideAllCaptionAtLilmit: 0,
+            startWithSlide: 0,
+
+          });
+      }
+    });
+
+  </script>
+</body>
+
+</html>
