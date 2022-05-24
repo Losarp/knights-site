@@ -22,23 +22,23 @@ import { collection, onSnapshot, updateDoc, doc } from "firebase/firestore";
 import jsonops from './jsonops';
 
 // TestNet
-const chainId = "pulsar-2"
-const chainRPC = "https://rpc.pulsar.griptapejs.com"
-const chainREST = "https://secret-pulsar-2--lcd--full.datahub.figment.io/apikey/530a58b47b58e988f5a44002d8444979"
-// const randomMintContract = "secret1tr6xttk7x3q2xe2ku8y42h87n025llnkatu3dv"
-// const randomMintHash = "acdf910e3f4312ce17122577b1b46633c21edc91bcb76f07214eb3df4a61c525"
-const randomMintContract = "secret1hddza542nyj574d5kk4awzsr5qr0zcgrgd2kxx"
-const randomMintHash = "bfc769376f86876882a15ca3f59412612154dc52ec7bd3a2e47a93d29d022c05"
-const snip20Contract = "secret18vd8fpwxzck93qlwghaj6arh4p7c5n8978vsyg"
-const snip20Hash = "9587D60B8E6B078ACE12014CEEEE089530B9FABCD76535D93666A6C127AD8813"
-
-// const chainId = "secret-4"
-// const chainRPC = "https://rpc-secret.scrtlabs.com/secret-4/rpc"
-// const chainREST = "https://chameleon-lcd.secret.llc"
-// const randomMintContract = "secret1t22ulrd0whfh9lpwun47fhevcwe46dlwy3ju92"
+// const chainId = "pulsar-2"
+// const chainRPC = "https://rpc.pulsar.griptapejs.com"
+// const chainREST = "https://secret-pulsar-2--lcd--full.datahub.figment.io/apikey/530a58b47b58e988f5a44002d8444979"
+// // const randomMintContract = "secret1tr6xttk7x3q2xe2ku8y42h87n025llnkatu3dv"
+// // const randomMintHash = "acdf910e3f4312ce17122577b1b46633c21edc91bcb76f07214eb3df4a61c525"
+// const randomMintContract = "secret1hddza542nyj574d5kk4awzsr5qr0zcgrgd2kxx"
 // const randomMintHash = "bfc769376f86876882a15ca3f59412612154dc52ec7bd3a2e47a93d29d022c05"
-// const snip20Contract = "secret1k0jntykt7e4g3y88ltc60czgjuqdy4c9e8fzek"
-// const snip20Hash = "AF74387E276BE8874F07BEC3A87023EE49B0E7EBE08178C49D0A49C3C98ED60E"
+// const snip20Contract = "secret18vd8fpwxzck93qlwghaj6arh4p7c5n8978vsyg"
+// const snip20Hash = "9587D60B8E6B078ACE12014CEEEE089530B9FABCD76535D93666A6C127AD8813"
+
+const chainId = "secret-4"
+const chainRPC = "https://rpc-secret.scrtlabs.com/secret-4/rpc"
+const chainREST = "https://chameleon-lcd.secret.llc"
+const randomMintContract = "secret1t22ulrd0whfh9lpwun47fhevcwe46dlwy3ju92"
+const randomMintHash = "bfc769376f86876882a15ca3f59412612154dc52ec7bd3a2e47a93d29d022c05"
+const snip20Contract = "secret1k0jntykt7e4g3y88ltc60czgjuqdy4c9e8fzek"
+const snip20Hash = "AF74387E276BE8874F07BEC3A87023EE49B0E7EBE08178C49D0A49C3C98ED60E"
 
 let myknights = []
 
