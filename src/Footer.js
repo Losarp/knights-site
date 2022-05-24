@@ -28,7 +28,7 @@ export default function Footer(props) {
                         {/* <button onClick={() => handlePreload()} target="_blank">Preload</button><br/> */}
                         {/* <button onClick={() => handleWhiteList()} target="_blank">Whitelist</button><br /> */}
                         {/* <button onClick={() => handleCancelWhitelist()} target="_blank">Cancel Whitelist</button><br /> */}
-                        <button onClick={() => props.jsonops()} target="_blank">jsonops</button><br />
+                        {/*<button onClick={() => props.jsonops()} target="_blank">jsonops</button><br />*/}
                         {/*<p>All rights reserved &copy; SIENNA NETWORK</p>*/}
                     </div>
 
